@@ -1,13 +1,18 @@
-# Isaac Miti
+# My Projects
 
-Welcome to my personal website
+A list of projects I am working on:
 
-## About
+# My Interests
 
-## Articles
+I am interested in contributing to open source and teaching others about coding.
 
-## Projects
+# My Blog
 
-## Open Source
+I want to share my coding journey on GitHub with the World.
 
-## Contact
+# Get in Touch
+
+<ul>
+<i><a href="https://twitter.com/{{site.twitter_username">Twitter</a></li>
+<i><a href="https://github.com/{{site.github_username">GitHub</a></li>
+</ul>
