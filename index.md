@@ -10,6 +10,14 @@ I am interested in contributing to open source and teaching others about coding.
 
 I want to share my coding journey on GitHub with the World.
 
+<ul>
+{% for post in site.posts %}
+  <li>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+  </li>
+{% endfor %}
+</ul>
+
 # Get in Touch
 
 <ul>
