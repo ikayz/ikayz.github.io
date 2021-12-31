@@ -191,4 +191,8 @@ footer {
   .contact-list {
     padding: 0;
   }
+
+  img {
+    width: 70%;
+  }
 }
