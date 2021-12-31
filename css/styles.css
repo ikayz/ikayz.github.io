@@ -125,10 +125,10 @@ h3 {
 ---------------------------------------- */
 .education {
   background-color: #f2ede4;
-  background-image: url("../images/joanna-kosinska-unsplash.jpg");
+  background-image: url("../images/education-bg.jpg");
   background-size: cover;
   background-position: top right;
-  padding-top: 100px;
+  padding-top: 30px;
 }
 
 .education p {
