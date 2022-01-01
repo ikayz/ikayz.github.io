@@ -195,4 +195,8 @@ footer {
   img {
     width: 70%;
   }
+
+  .education {
+    background-position: top center;
+  }
 }
