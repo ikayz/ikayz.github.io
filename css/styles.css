@@ -200,3 +200,12 @@ footer {
     background-position: top center;
   }
 }
+
+@media screen and (max-width: 450px) {
+  h1 {
+    font-size: 50px;
+  }
+  h2 {
+    font-size: 35px;
+  }
+}
